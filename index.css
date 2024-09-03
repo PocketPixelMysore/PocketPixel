@@ -163,7 +163,7 @@
   font-weight: 400;
   font-family: inherit;
   background: linear-gradient(180deg, #fff 28.5%, #050d16 63%);
-  -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   z-index: 2;
 }
